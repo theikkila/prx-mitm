@@ -1,0 +1,16 @@
+{
+  "name": "prx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "hat": "0.0.3",
+    "request": "^2.81.0",
+    "websocket": "^1.0.24"
+  }
+}
